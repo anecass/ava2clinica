@@ -3,6 +3,13 @@
 Aplicação web fullstack desenvolvida com **Vue.js** (frontend) e **Node.js + Express + TypeScript** (backend), com autenticação JWT, integração com APIs externas e banco de dados MongoDB Atlas.
 
 ---
+ ##  Deploy
+
+| Serviço | URL |
+|---------|-----|
+| Frontend | https://ava2clinica.vercel.app |
+| Backend | https://ava2clinica-backend.onrender.com |
+| Repositório | https://github.com/anecass/ava2clinica |
 
 ##  Funcionalidades
 
